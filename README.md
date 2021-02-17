@@ -14,7 +14,7 @@ Projenizi Açtığınızda Proje Sonuna [api/apiad]**
 <img src="https://cdn.discordapp.com/attachments/705019613586522156/811389562546815006/apiad.png">
                                                                       
 <h1>Sitemizi Açtığımızda Durum</h1>
-<img src="https://cdn.discordapp.com/attachments/680797428940537911/692764785053532280/request.png">
+<img src="https://cdn.discordapp.com/attachments/705019613586522156/811391717005459506/durum.png">
 
 **Artık Herşey Tamam, Bunu Request İle Çekebiliriz.**
 
