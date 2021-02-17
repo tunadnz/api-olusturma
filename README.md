@@ -6,8 +6,6 @@
 **Projenizde Hata Olmadığını Doğruladığınızda Yapmanız Gereken
 Projenizi Açtığınızda Proje Sonuna [api/apiad]** <a href="https://proje-adi.com/api/apiad">**Eklemek**</a>
 
-**https://proj-adi.com/api/apiad**
-
 **Yapmanız Gereken Kısım**
 
 <img src="https://cdn.discordapp.com/attachments/705019613586522156/811389562546815006/apiad.png">
