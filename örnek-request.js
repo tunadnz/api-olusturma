@@ -1,8 +1,9 @@
-const { Discord, MessageEmbed } = require("discord.js");
-const axios = require('axios');
+const { Discord, MessageEmbed } = require("discord.js"); // Discord.js Modülünü Tanımlayıp Uygulamamızı Tanımlıyoruz
+const axios = require('axios'); // Veri Çektirme Modülünü Tanımlıyoruz
 
 exports.run = async (client, message, args) => {
-  
+
+// Verimizi Modül Yardımıyla Çektiriyoruz  
 axios.get(`https://proje-adi.com/api/apiad`)
 .then((response) => {
 
