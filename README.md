@@ -12,6 +12,6 @@ Projenizi Açtığınızda Proje Sonuna [api/apiad] Eklemek**
 <h1>Sitemizi Açtığımızda Durum</h1>
 <img src="https://cdn.discordapp.com/attachments/705019613586522156/811391717005459506/durum.png">
 
-**Artık Herşey Tamam, Artık Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz.**</a>
+**Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz.**</a>
 
 <h1>🤜🤛</h1>
