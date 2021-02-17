@@ -3,7 +3,7 @@ const axios = require('axios'); // Veri Çektirme Modülünü Tanımlıyoruz
 
 exports.run = async (client, message, args) => {
 
-// Verimizi Modül Yardımıyla Çektiriyoruz  
+// Verilerimizi Modül Yardımıyla Çektiriyoruz  
 axios.get(`https://proje-adi.com/api/apiad`)
 .then((response) => {
 
