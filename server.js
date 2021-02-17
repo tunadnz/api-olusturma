@@ -1,6 +1,6 @@
 const express = require('express'); // Express Modülünü Tanımlayıp Uygulamamızı Tanımlıyoruz
 const app = express();
-const { port, port2 } = require('./database/data.json'); // Database Klasörünü Tanımlayıp Portlarımızı Tanımlıyoruz
+const { port, port2 } = require('./database/data.json'); // Database Klasörünü Portlarımızla Beraber Tanımlıyoruz
 
 // API Sitesinin Ayarları
 app.get('/api/apiad', function(request , response) {
