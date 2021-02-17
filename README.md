@@ -1,4 +1,4 @@
-<h1>discord.js Kütüphanesini Kullananlar İçin API Veri Oluşturma Örneği Ve Request Çekme</h1>
+<h1>discord.js Kütüphanesini Kullananlar İçin API Veri Oluşturma Ve Request Çekme Örneği</h1>
 
 **[NOT: var veriler] Kısmında "Tuna" Ve "Deniz" Yerini Değiştirebilir "Şeftali" Gibi İstediğiniz Şeyleri Yazabilirsiniz.**
 
