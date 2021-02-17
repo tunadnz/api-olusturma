@@ -4,8 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/705019613586522156/811391532393037824/veriler.png">
 
 **Projenizde Hata Olmadığını Doğruladığınızda Yapmanız Gereken
-Projenizi Açtığınızda Proje Sonuna [api/apiad]**
-<a href="https://proje-adi.com/api/apiad">**Ekleyin**</a>
+Projenizi Açtığınızda Proje Sonuna [api/apiad]** <a href="https://proje-adi.com/api/apiad">**Eklemek**</a>
 
 **https://proj-adi.com/api/apiad**
 
