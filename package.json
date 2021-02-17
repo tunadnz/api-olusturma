@@ -1,0 +1,17 @@
+{
+  "name": "api-olusturma",
+  "version": "1.0.0",
+  "description": "Express Uygulamasına Kurulu Basit Bir Node API Veri Oluşturma Örneği",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
