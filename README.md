@@ -15,6 +15,3 @@ Projenizi Açtığınızda Proje Sonuna [api/apiad] Eklemek**
 **Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz.**</a>
 
 <h1>🤜🤛</h1>
-
-# te
-test
