@@ -1,4 +1,4 @@
-# <h1>discord.js Kütüphanesini Kullananlar İçin API Veri Oluşturma Ve Request Çekme Örneği</h1>
+<h1>discord.js Kütüphanesini Kullananlar İçin API Veri Oluşturma Ve Request Çekme Örneği</h1>
 
 **[NOT: var veriler] Kısmında "Tuna" Ve "Deniz" Yerini Değiştirebilir "Şeftali" Gibi İstediğiniz Şeyleri Yazabilirsiniz.**
 
@@ -15,3 +15,6 @@ Projenizi Açtığınızda Proje Sonuna [api/apiad] Eklemek**
 **Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz.**</a>
 
 <h1>🤜🤛</h1>
+
+# te
+test
