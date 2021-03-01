@@ -12,7 +12,7 @@ Websitenizin Sonuna [api/apiad] Eklemek**
 <h1>Websitemizi Açtığımızda Durum</h1>
 <img src="https://cdn.discordapp.com/attachments/705019613586522156/811391717005459506/durum.png">
 
-**Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz 🤜🤛**</a>
+**Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz  🤜🤛**</a>
 
 <h2>İletişim İçin Gerekli Bilgilerim</h2>
 <a href="https://discord.gg/rVnKDGcRKR" target="blank__">Discord</a>
