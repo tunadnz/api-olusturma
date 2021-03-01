@@ -15,4 +15,4 @@ Websitenizin Sonuna [api/apiad] Eklemek**
 **Artık Herşey Tamam, Bunu** <a href="https://github.com/tunadnz/api-olusturma/blob/main/%C3%B6rnek-request.js">**Request İle Çekebiliriz.**</a>
 
 <h1>🤜🤛</h1>
-<a href="https://discord.gg/rVnKDGcRKR" target="blank__">**Discord**</a>
+<a href="https://discord.gg/rVnKDGcRKR" target="blank__">Discord</a>
